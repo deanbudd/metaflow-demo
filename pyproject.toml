@@ -6,6 +6,7 @@ authors = ["Dean Budd <dbudd@seek.com.au>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+metaflow = "^2.4.3"
 
 [tool.poetry.dev-dependencies]
 
